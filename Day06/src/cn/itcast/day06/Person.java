@@ -3,6 +3,7 @@ package cn.itcast.day06;
 public class Person {
 
 	//to test githup here for repo01
+	//To test githup here for repo01 again.
 	private String name;
 	private int age;
 	private boolean male;
